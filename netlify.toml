@@ -3,7 +3,7 @@
   publish = "./dist/"
   command = "npm run build"
 
-[template.environment]
-  NAME = "Betty"
-  PIC = "https://postimg.cc/delete/5Zmf4fJn/5f249646"
+[build.environment]
+  NAME ="Betty"
+  PIC ="https://postimg.cc/delete/5Zmf4fJn/5f249646"
   SCROLL_MSG ="sample-scroll.txt"
