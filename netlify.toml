@@ -5,4 +5,5 @@
 
 [template.environment]
   NAME = "Betty"
-  PIC = "picture.png"
+  PIC = "https://postimg.cc/delete/5Zmf4fJn/5f249646"
+  SCROLL_MSG ="sample-scroll.txt"
