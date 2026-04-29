@@ -5,4 +5,4 @@
 
 [template.environment]
   NAME = "Betty"
-  PIC = picture.png
+  PIC = "picture.png"
